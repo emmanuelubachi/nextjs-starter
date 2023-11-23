@@ -43,7 +43,7 @@ To get started with this Next.js project starter, follow these steps:
    - Alternatively:
 
 ```bash
-   npx degit the-pudding/svelte-starter my-project
+   npx degit emmanuelubachi/nextjs-starter nextjs-project-starter
 ```
 
 2. Navigate to the project folder:
