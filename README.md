@@ -53,11 +53,14 @@ To get started with this Next.js project starter, follow these steps:
 
 ```bash
 npm install
-# or
+```
+```bash
 yarn install
-# or
+```
+```bash
 pnpn install
-# or
+```
+```bash
 bun install
 ```
 
