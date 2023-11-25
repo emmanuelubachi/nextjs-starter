@@ -42,9 +42,9 @@ To get started with this Next.js project starter, follow these steps:
    - Click the green `Use this template` button above.
    - Alternatively:
 
-```bash
-   npx degit emmanuelubachi/nextjs-starter nextjs-project-starter
-```
+   ```bash
+      npx degit emmanuelubachi/nextjs-starter nextjs-project-starter
+   ```
 
 2. Navigate to the project folder:
    ```bash
@@ -53,33 +53,33 @@ To get started with this Next.js project starter, follow these steps:
 
 4. Install the project dependencies:
 
-```bash
-npm install
-```
-```bash
-yarn install
-```
-```bash
-pnpn install
-```
-```bash
-bun install
-```
+   ```bash
+   npm install
+   ```
+   ```bash
+   yarn install
+   ```
+   ```bash
+   pnpn install
+   ```
+   ```bash
+   bun install
+   ```
 
 4. Run the development server:
 
-```bash
-npm run dev
-```
-```bash
-yarn dev
-```
-```bash
-pnpm dev
-```
-```bash
-bun dev
-```
+   ```bash
+   npm run dev
+   ```
+   ```bash
+   yarn dev
+   ```
+   ```bash
+   pnpm dev
+   ```
+   ```bash
+   bun dev
+   ```
 
 5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
