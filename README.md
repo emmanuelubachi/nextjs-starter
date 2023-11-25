@@ -68,11 +68,14 @@ bun install
 
 ```bash
 npm run dev
-# or
+```
+```bash
 yarn dev
-# or
+```
+```bash
 pnpm dev
-# or
+```
+```bash
 bun dev
 ```
 
