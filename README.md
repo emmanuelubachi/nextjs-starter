@@ -47,9 +47,11 @@ To get started with this Next.js project starter, follow these steps:
 ```
 
 2. Navigate to the project folder:
-   `cd nextjs-project-starter`
+   ```bash
+   cd nextjs-project-starter
+   ```
 
-3. Install the project dependencies:
+4. Install the project dependencies:
 
 ```bash
 npm install
